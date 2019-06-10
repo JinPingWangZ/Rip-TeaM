@@ -1,0 +1,21 @@
+c:\users\doom\documents\visual studio 2013\Projects\Rip TeaM\Rip TeaM\bin\Debug\Rip TeaM.exe
+c:\users\doom\documents\visual studio 2013\Projects\Rip TeaM\Rip TeaM\bin\Debug\Rip TeaM.pdb
+c:\users\doom\documents\visual studio 2013\Projects\Rip TeaM\Rip TeaM\bin\Debug\Rip TeaM.xml
+c:\users\doom\documents\visual studio 2013\Projects\Rip TeaM\Rip TeaM\obj\Debug\Rip_TeaM.Form1.resources
+c:\users\doom\documents\visual studio 2013\Projects\Rip TeaM\Rip TeaM\obj\Debug\Rip_TeaM.KingFHD.resources
+c:\users\doom\documents\visual studio 2013\Projects\Rip TeaM\Rip TeaM\obj\Debug\Rip_TeaM.Resources.resources
+c:\users\doom\documents\visual studio 2013\Projects\Rip TeaM\Rip TeaM\obj\Debug\Rip TeaM.vbproj.GenerateResource.Cache
+c:\users\doom\documents\visual studio 2013\Projects\Rip TeaM\Rip TeaM\obj\Debug\Rip TeaM.exe
+c:\users\doom\documents\visual studio 2013\Projects\Rip TeaM\Rip TeaM\obj\Debug\Rip TeaM.xml
+c:\users\doom\documents\visual studio 2013\Projects\Rip TeaM\Rip TeaM\obj\Debug\Rip TeaM.pdb
+D:\VC\Rip TeaM\Rip TeaM\obj\Debug\Rip TeaM.exe
+D:\VC\Rip TeaM\Rip TeaM\obj\Debug\Rip TeaM.xml
+D:\VC\Rip TeaM\Rip TeaM\obj\Debug\Rip TeaM.pdb
+D:\VC\Rip TeaM\Rip TeaM\bin\Debug\Rip TeaM.exe
+D:\VC\Rip TeaM\Rip TeaM\bin\Debug\Rip TeaM.pdb
+D:\VC\Rip TeaM\Rip TeaM\bin\Debug\Rip TeaM.xml
+D:\VC\Rip TeaM\Rip TeaM\obj\Debug\Rip TeaM.vbprojResolveAssemblyReference.cache
+D:\VC\Rip TeaM\Rip TeaM\obj\Debug\Rip_TeaM.Form1.resources
+D:\VC\Rip TeaM\Rip TeaM\obj\Debug\Rip_TeaM.KingFHD.resources
+D:\VC\Rip TeaM\Rip TeaM\obj\Debug\Rip_TeaM.Resources.resources
+D:\VC\Rip TeaM\Rip TeaM\obj\Debug\Rip TeaM.vbproj.GenerateResource.Cache
